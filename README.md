@@ -1,5 +1,5 @@
 # Protuberance Removal
-Program for removing any proturbance in bronchial walls on CT images
+Program for removing any protuberance in bronchial walls on CT images
 
 Licensed under GPL 3.0
 
@@ -16,7 +16,7 @@ seconds by postprocessin images by computer algorithms.
 Basic Concepts
 --------------
 
-Here I am presenting the algorithm for removal of bronchial wall proturbance.
+Here I am presenting the algorithm for removal of bronchial wall protuberance.
 The algorithm is very similar to region growing techniques. 
 It takes the middle of bronchial lumen and calculates radius of
 bronchial wall for any given angle. If at any point the radius is more 
