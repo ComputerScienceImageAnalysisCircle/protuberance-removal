@@ -1,4 +1,4 @@
-# Proturbance Removal
+# Protuberance Removal
 Program for removing any proturbance in bronchial walls on CT images
 
 Licensed under GPL 3.0
